@@ -1,0 +1,12 @@
+Decoration.tsx
+Terrain.tsx
+libgdx.png
+map.tmx
+mymap.png
+playerSprite.png
+tiledAssets/ERIKA.tmx
+tiledAssets/objects.tsx
+tiledAssets/summer_plains_v1.0_standard.zip
+tiledAssets/summer_plains_v1.0_standard/summer_plains_v1.0_standard/assets.png
+tiledAssets/summer_plains_v1.0_standard/summer_plains_v1.0_standard/license.txt
+tiledAssets/summer_plains_v1.0_standard/summer_plains_v1.0_standard/tiles.png
