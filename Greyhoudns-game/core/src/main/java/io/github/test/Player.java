@@ -20,7 +20,7 @@ public class Player{
         playerY = y;
 
         //player speed
-        speed = 100f;
+        speed = 200f;
 
     }
 
@@ -42,7 +42,7 @@ public class Player{
 
 
         if (givenMap.checkCollision(this, delta)){
-            System.out.println("hello");
+            System.out.println("collision");
             playerX = oldX;
             playerY = oldY;
         }

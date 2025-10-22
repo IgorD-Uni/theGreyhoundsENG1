@@ -10,8 +10,8 @@ public class GameMap{
     TiledMapTileLayer collisionLayer;
     OrthogonalTiledMapRenderer tMR;
 
-    int[] backgroundLayers = { 1,2  };
-    int[] foregroundLayers = { 3 };
+    int[] backgroundLayers = { 1,2,3 };
+    int[] foregroundLayers = { 4 };
 
     boolean collision;
 

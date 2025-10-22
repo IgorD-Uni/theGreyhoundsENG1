@@ -19,6 +19,8 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 
 /** {@link com.badlogic.gdx.ApplicationListener} implementation shared by all platforms. */
 public class Main extends ApplicationAdapter {
+    //Declare the starting screen
+    startScreen startScreen;
     //Declare all textures
     Player player;
 
@@ -38,7 +40,7 @@ public class Main extends ApplicationAdapter {
     @Override
     public void create() {
         //Load in all textures and declare sprite batch ( it allows them to go to the GPU)
-        player = new Player("playerSprite.png",100,100);
+        player = new Player("playerSprite.png",100,150);
         spriteBatch = new SpriteBatch();
 
 
@@ -55,7 +57,10 @@ public class Main extends ApplicationAdapter {
 
         //Orthogonal camera just means its 2D and wont change perspective, the parameter are the
         //area the camera has around the player.
-        camera = new OrthographicCamera(200, 200);
+        camera = new OrthographicCamera(512, 512);
+
+        //Create starting screen
+        startScreen = new startScreen("startScreen.png");
 
 
     }
@@ -67,6 +72,7 @@ public class Main extends ApplicationAdapter {
         input();
         logic();
         draw();
+
     }
 
     @Override
@@ -88,6 +94,12 @@ public class Main extends ApplicationAdapter {
         //Delta or delta time makes sure that a difference in framerate between devices
         //does not correspond to different speed etc.
         float delta = Gdx.graphics.getDeltaTime();
+
+
+        // Stops other inputs when starter screen is displaying
+        if (startScreen.displaying){
+            return;
+        }
 
 
             //This is for player movement, when keys are pressed it change an array in the Player
@@ -115,29 +127,57 @@ public class Main extends ApplicationAdapter {
 
 
     private void logic(){
-        camera.position.set(player.playerX, player.playerY, 1);
+        //camera.position.set(player.playerX, player.playerY, 1); Follow player movement
+
+
+
+        // Set camera to the quadrant that the player is currently in
+        if (player.playerX < 512 && player.playerY < 512){
+            camera.position.set(256,256,1);
+        }
+        else if (player.playerX >= 512 && player.playerY < 512) {
+            camera.position.set(256+512, 256, 1);
+        }
+        else if (player.playerX < 512 && player.playerY >= 512) {
+            camera.position.set(256, 256+512, 1);
+        }
+        else if (player.playerX >= 512 && player.playerY >= 512) {
+            camera.position.set(256+512, 256+512, 1);
+        }
         camera.update();
     }
     private void draw(){
+        // Render on screen, in specific order 1) Background 2) Player 3)Foreground
+
+
+        //Background and set camera
         ScreenUtils.clear(0.15f, 0.15f, 0.2f, 1f);;
         map.tMR.setView(camera);
         map.tMR.render(map.backgroundLayers);
         viewport.apply();
 
 
+        // Render sprites i.e. player and possible other characters
         spriteBatch.setProjectionMatrix(camera.combined);
 
-        float worldHeight = viewport.getMaxWorldHeight();
-        float worldWidth = viewport.getMaxWorldWidth();
 
         spriteBatch.begin();
 
-        //spriteBatch.draw(backgroundTexture,0,0,worldHeight,worldWaidth);
+        //spriteBatch.draw(backgroundTexture,0,0,worldHeight,worldWidth);
+
+
+        // Render the foreground (i.e trees)
         spriteBatch.draw(player.playerTexture, player.playerX-16, player.playerY-16 ,32,32);
 
 
         spriteBatch.end();
         map.tMR.render(map.foregroundLayers);
+
+        // Check if starting screen needs to be displayed over the map.
+
+        if (startScreen.displaying) {
+            startScreen.displayScreen();
+        }
     }
 }
 

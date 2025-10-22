@@ -4,6 +4,7 @@ libgdx.png
 map.tmx
 mymap.png
 playerSprite.png
+startScreen.png
 tiledAssets/ERIKA.tmx
 tiledAssets/objects.tsx
 tiledAssets/summer_plains_v1.0_standard.zip
