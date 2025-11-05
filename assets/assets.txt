@@ -1,0 +1,187 @@
+Dungeon_Tileset.png
+Maze.tmx
+Maze/New folder/Maze.tmx
+Maze/New folder/desktop.ini
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/LightShadow_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/LightShadow_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/LightShadow_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Dirt_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Dirt_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Flower_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Flower_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Grass_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Grass_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Wall-Up_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Wall-Up_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]WaterFall_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]WaterFall_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Water_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[A]Water_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[Base]BaseChip_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/[Base]BaseChip_pipo.tsx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/samplemap.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/SampleMap/samplemap.tmx
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Dirt1-Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Dirt1-Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Dirt1-Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Dirt1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Flower_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1-Dirt1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1-Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1-Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1-Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1-Grass2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1-Grass3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1-Grass4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Grass4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]LongGrass_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Wall-Up1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Wall-Up2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water3_Cave1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water5_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water6_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]Water7_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]WaterFall1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]WaterFall2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/[A]WaterFall3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water3_Cave1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water5_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water6_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]Water7_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]WaterFall1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]WaterFall2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type1/not_animation/[A]WaterFall3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Dirt1-Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Dirt1-Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Dirt1-Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Dirt1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Flower_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1-Dirt1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1-Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1-Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1-Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1-Grass2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1-Grass3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1-Grass4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Grass4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]LongGrass_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Wall-Up1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Wall-Up2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water3_Cave1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water5_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water6_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]Water7_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]WaterFall1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]WaterFall2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/[A]WaterFall3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water3_Cave1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water5_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water6_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]Water7_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]WaterFall1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]WaterFall2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type2/not_animation/[A]WaterFall3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Dirt1-Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Dirt1-Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Dirt1-Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Dirt1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Flower_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1-Dirt1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1-Dirt2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1-Dirt3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1-Dirt4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1-Grass2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1-Grass3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1-Grass4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Grass4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]LongGrass_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Wall-Up1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Wall-Up2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water3_Cave1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water5_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water6_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]Water7_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]WaterFall1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]WaterFall2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/[A]WaterFall3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water3_Cave1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water4_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water5_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water6_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]Water7_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]WaterFall1_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]WaterFall2_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[A]_type3/not_animation/[A]WaterFall3_pipo.png
+Pipoya RPG Tileset 32x32/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo.png
+Terrain.tsx
+Tiled stuff/Tiled stuff/Dungeon_Tileset_at.tsx
+Tiled stuff/Tiled stuff/Houses Sprite Sheet 2.tsx
+Tiled stuff/Tiled stuff/Houses Sprite Sheet.png
+Tiled stuff/Tiled stuff/Houses Sprite Sheet.tsx
+Tiled stuff/Tiled stuff/Map draft.png
+Tiled stuff/Tiled stuff/TX Tileset Wall.png
+Tiled stuff/Tiled stuff/TX Tileset Wall.tsx
+Tiled stuff/Tiled stuff/assets.tsx
+Tiled stuff/Tiled stuff/houses assets.tsx
+Tiled stuff/Tiled stuff/maze.pdf
+Tiled stuff/Tiled stuff/tiles.tsx
+desktop.ini
+grass.tsx
+libgdx.png
+mymap.png
+playerSprite.png
+startButton.png
+startScreen.png
+tiledAssets/ERIKA.tmx
+tiledAssets/objects.tsx
+tiledAssets/summer_plains_v1.0_standard.zip
+tiledAssets/summer_plains_v1.0_standard/summer_plains_v1.0_standard/Grass.png
+tiledAssets/summer_plains_v1.0_standard/summer_plains_v1.0_standard/assets.png
+tiledAssets/summer_plains_v1.0_standard/summer_plains_v1.0_standard/license.txt
+tiledAssets/summer_plains_v1.0_standard/summer_plains_v1.0_standard/tiles.png
+tiledAssets/town free.zip
+tiledAssets/town free/town free/free version.png
+tiledAssets/town free/town free/read me.txt
+tiledAssets/town free/town free/robin_peck_left.gif
+tiledAssets/town free/town free/robin_peck_right.gif
